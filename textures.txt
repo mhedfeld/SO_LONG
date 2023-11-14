@@ -1,0 +1,15 @@
+//Environment Textures 
+https://craftpix.net/freebies/free-rocky-area-objects-pixel-art/ 
+
+//Enemy/Guard Textures 
+https://craftpix.net/freebies/free-slime-sprite-sheets-pixel-art/
+
+//Collectible Textures 
+https://craftpix.net/freebies/top-down-crystals-pixel-art/ 
+
+//Main Character Textures 
+https://craftpix.net/freebies/free-pixel-art-tiny-hero-sprites/
+
+//Texture Sources 
+https://craftpix.net/ 
+
