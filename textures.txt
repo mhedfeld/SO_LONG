@@ -20,3 +20,6 @@ https://github.com/Florian-A/So_Long
 Character Movements
 https://github.com/andersonhsporto/ft-so_long/tree/main/source/2-movements
  
+Work path 
+https://42.nauman.cc/2023/09/22/intermediate-c-mlx/ 
+
